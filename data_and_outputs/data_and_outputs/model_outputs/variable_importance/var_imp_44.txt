@@ -1,0 +1,14 @@
+An object of class ".varImportance"
+Slot "variables":
+[1] "bioclim_01" "bioclim_04" "bioclim_12" "bioclim_16" "bioclim_17"
+[6] "human"     
+
+Slot "varImportance":
+            variables corTest AUCtest
+bioclim_01 bioclim_01  0.0644  0.0434
+bioclim_04 bioclim_04  0.1705  0.1244
+bioclim_12 bioclim_12  0.8065  0.6210
+bioclim_16 bioclim_16  0.0762  0.0356
+bioclim_17 bioclim_17  0.1814  0.1836
+human           human  0.0008  0.0004
+
